@@ -5,6 +5,14 @@
 </p>
 
 
+<div align="center">
+<h2> Technologies That I Know👨🏻‍💻 </h2> 
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,nodejs,cloudflare,workers,docker,aws,ipfs,bootstrap,tailwind,express,wordpress,git,linux,mongodb,mysql,postman,redis,selenium,tensorflow,bash&perline=10" />
+  </a>
+
+</div>
 
 <br>
 <div align='center'>
